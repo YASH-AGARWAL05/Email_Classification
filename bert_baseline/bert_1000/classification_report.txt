@@ -1,0 +1,10 @@
+              precision    recall  f1-score   support
+
+   Complaint       0.81      0.42      0.55        50
+Confirmation       0.70      0.51      0.59        51
+     Enquiry       0.75      0.98      0.85        49
+      Others       0.56      0.82      0.67        50
+
+    accuracy                           0.68       200
+   macro avg       0.71      0.68      0.66       200
+weighted avg       0.71      0.68      0.66       200

@@ -1,0 +1,9 @@
+maildir/
+*.pth
+*.pt
+env/
+bert-base-uncased/
+enron_mail_20150507.tar.gz
+/enron_processed.csv
+roberta-base/
+*.pkl

@@ -1,0 +1,497 @@
+email_id,label,body
+1,Enquiry,"We have received the following questions from the Wall Street Journal and Bloomberg. We will not necessarily respond but would you please provide answers and let me know your view whether or not we should respond to the following:
+
+Have you had any further contact from Fitch? 
+
+Has there been a change in status to the SEC inquiry? Which office is handling Fort Worth?
+
+Have you been contacted by the Federal Reserve or any other agency conducting an investigation?
+
+Have you been in contact with or retained bankruptcy counsel?
+
+Have you been contacted about a takeover Royal Dutch/GE?
+
+Have you retained Goldman Sachs to advise you on credit rating/financing issues or to find a strategic partner? Will they receive an equity stake to help Enron get out of its current situation?
+
+
+These reporters are on deadline tonight so let me know as soon as possible.
+
+Thank you."
+2,Enquiry,"Jeff,
+
+As always your proposal is creative. After reviewing your presentation, 
+here are some tough questions that we can discuss tomorrow:
+
+1. Would the replacement energy from the market be obtained under
+contracts of similar length and firmness as the QF contracts that the energy
+replaces? If not, how do we justify a different standard?
+
+2. Can we credibly say that the California economy and reliability will be
+served by shifting energy supply from California to a broader Western
+market?
+
+3. Will FERC be convinced by the arguments on competitive issues, or will
+it view this as something that further concentrates market power?
+
+4. Do we need outright acquisition rather than contracts?
+
+5. Can we structure a creative way to allow the QFs to participate in the
+upside over the long term (i.e. the higher priced years)?
+
+6. How would we be assured that SCE would use any funds from this to pay
+QFs and keep them running?
+
+I look forward to discussing these tomorrow.
+
+Mike"
+3,Enquiry,"In preparation for Friday's bank conference, Cheryl Lipshutz and I are sitting with the banks right now and we understand that you are meeting with them at 2pm this afternoon. Here is a list of the initial questions they are posing to the RAC group:
+
+RAC
+1.	Does VAR analyses take care of the quality of the assets?
+2.	What is the correlation matrix?  How often is it updated and validated?
+3.	Can you discuss reserve methodology?
+4.	Can the banks get more detail of Enron's current asset/position breakdown?
+
+Credit
+1.	Bank debts on the balance sheet?
+
+These are the issues right now. If you have any further questions, please let me know.
+
+Thanks,
+James"
+4,Enquiry,"Our analysis shows a 35% increase in shipping costs for international orders. Has the logistics team evaluated alternative carriers for these routes? The current delivery timeframes have increased by an average of 7 days, which is causing customer satisfaction issues in our European markets.
+
+The cost differential between domestic and international shipping has grown from 2.8x to 4.3x in just one quarter. Is this a temporary spike related to fuel costs, or are there structural issues with our distribution network that need to be addressed?
+
+Can you provide a breakdown of which product categories are most affected by these increases? We need to determine whether selective price adjustments might be necessary.
+
+Thank you for looking into this."
+5,Enquiry,"Our customer satisfaction metrics have declined 15% since implementing the new billing system last quarter. Has the customer service team identified specific functionality issues that might be causing this drop? I've received numerous Complaints about invoice errors and delayed response times from our key accounts.
+
+The data shows that call resolution times have increased from an average of 8 minutes to nearly 17 minutes, while first-call resolution has dropped from 76% to 52%. 
+
+Has IT conducted any post-implementation review to address these concerns? Are there plans to revert to the previous system if these issues can't be resolved quickly?
+
+Our quarterly business review is coming up, and I need to provide the executive team with specific remediation actions. Can you share the current troubleshooting plan and timeline?"
+6,Enquiry,"The operational performance metrics for the Western region show a 23% increase in delivery failures compared to last quarter. Has the logistics team identified the root causes for these failures? Our initial analysis suggests problems with both the scheduling system and third-party carriers.
+
+Is this a temporary situation related to the recent software upgrade, or have there been personnel changes that might be affecting performance? The customer impact is becoming significant, with several key accounts threatening to reduce their orders.
+
+What corrective actions have been implemented, and when can we expect to see improvements? Do we need to allocate additional resources to this region while the issues are being resolved?
+
+Please provide an update by Thursday so I can address these concerns in the divisional meeting."
+7,Enquiry,"The Alpha Project is showing a 30% schedule variance according to last week's status report. Has the project team identified specific bottlenecks causing these delays? The original timeline projected completion by March, but current projections indicate a potential slip to May or June.
+
+Have the required resources been fully allocated to the critical path activities? Our stakeholder analysis suggests that several key deliverables are dependent on technical resources that appear overcommitted.
+
+What mitigation strategies are being considered? Would adding external consultants help accelerate the timeline, or are there fundamental scope issues that need to be addressed?
+
+I need to update the steering committee next week, so a comprehensive status update would be appreciated."
+8,Enquiry,"Dear Jeffrey:
+
+Will you be able to join other VentureWire subscribers
+in the Bay Area for this month's breakfast briefing?
+
+We'll be gathering at the San Mateo Marriott on
+Wednesday, September 19 to hear Mark Klopp's thoughts
+on this month's topic:
+
+When Corporate and Venture Worlds Collide: Aligning
+Strategic and Financial Goals in Corporate Venturing
+
+What approach to corporate venturing is most beneficial
+for startups?
+
+Can startups compete for talent with corporate-funded
+rivals?
+
+Why are some corporations abandoning their venture
+programs?
+
+Is your startup a candidate for corporate venture
+funding?
+
+Join us on Wednesday at 8 a.m. for this important discussion.
+Space is limited to 40 guests.
+
+Please reserve your space by return e-mail."
+9,Enquiry,"Order processing times have increased 25% since implementing the new workflow system last month. Has the operations team identified specific bottlenecks in the process? Customer Complaints about late deliveries have increased dramatically, and our on-time delivery metric has dropped from 94% to 81%.
+
+According to our system logs, the order validation step now takes three times longer than before, and we're seeing a 40% increase in exception handling. Have any configuration changes been made that might explain these issues?
+
+What steps can we take immediately to improve performance while a more permanent solution is developed? Would reverting to the previous workflow make sense, or are there quick fixes we can implement?
+
+I need recommendations by Friday so we can discuss them in the operations review meeting."
+10,Enquiry,"Customer feedback shows growing confusion about our new pricing model. Has the marketing team tested alternative ways to present this information? Our conversion rate has dropped 18% since the rollout, and customer service reports that 32% of all calls now relate to pricing questions.
+
+The web analytics show that visitors are spending three times longer on the pricing page but are 45% less likely to proceed to the purchase flow. Is the complexity of the tiered structure causing decision paralysis?
+
+Have we considered running focus groups to better understand customer pain points? Should we simplify the pricing structure, even if it means potentially lower revenue for some customer segments?
+
+Please share your thoughts on how we can address this growing concern."
+11,Enquiry,"Help desk tickets for password resets have increased 45% since the new security policy implementation. Is it possible to simplify the authentication requirements without compromising security? The average employee now spends approximately 7.5 minutes per week just managing passwords.
+
+The data shows that 23% of all support calls are now password-related, up from just 8% last quarter. Is this just an adoption curve issue that will improve over time, or have we made the requirements too complex for regular users?
+
+Could we implement single sign-on for more systems to reduce the burden? Are there other companies in our industry that have found a better balance between security and usability?
+
+I'd appreciate your thoughts on how we might improve this situation while maintaining our security posture."
+12,Enquiry,"Has there been any further progress on the negotiations with the third-party supplier for the Eastern region? Our inventory forecasts show we'll reach critical levels in roughly 45 days if the new agreement isn't finalized. The pricing differential between the current and proposed supplier represents approximately $1.2M in annual savings.
+
+Have we evaluated contingency options if this deal falls through? What alternative suppliers could meet our volume requirements with minimal quality compromises?
+
+Could we temporarily shift some production to our internal facilities to reduce dependence on this supplier? What would be the cost implications of such a move?
+
+I need to update the procurement committee next week, so any information you can provide would be helpful."
+13,Enquiry,"The collateral optimization model is showing a 14% increase in required margin deposits despite relatively stable positions. Initial analysis suggests changes in correlation assumptions might be responsible, but documentation is unclear. Has the quantitative team modified the diversification benefit calculations in the latest release? We need to understand these changes to properly manage funding requirements across trading desks.
+
+The model previously applied a correlation factor of 0.65 for related energy commodities, but it appears this may have been reduced to 0.4 in the current version. What market data supports this change?
+
+Could you arrange a meeting with the risk modeling team to walk through the recent modifications? This funding impact is significant enough to affect our liquidity forecasts for the quarter."
+14,Enquiry,"Our analysis shows an unexpected increase in customer support contacts specifically related to account access issues. Ticket volume has increased by 68% for password resets and security verification processes without corresponding changes to our authentication systems. Has the IT security team implemented any new validation rules or lockout thresholds? Understanding these technical constraints is essential for balancing security requirements with user experience considerations.
+
+The data indicates that 73% of these incidents occur during the first login attempt after the weekend. Is there a session timeout parameter that needs adjustment?
+
+Has there been any recent security patch that might be affecting the authentication flow? We need to address this quickly as it's creating significant frustration among our highest-value customers."
+15,Enquiry,"Supply chain delays affecting European component deliveries. Lead times increased from 23 to 38 days without vendor communication. Has procurement identified regional logistics constraints? Understanding these factors critical for production scheduling.
+
+Our analysis shows most delays originating at Rotterdam port, with container processing times doubled since last quarter. Is this related to the new customs procedures, or are there capacity issues with our freight forwarder?
+
+The delays have already impacted three production runs, with potential revenue impact of approximately €1.2M if not resolved within two weeks. Have we considered air freight alternatives for critical components?
+
+Could you provide a detailed breakdown of which SKUs are most affected so we can prioritize our response?"
+16,Enquiry,"Customer service satisfaction scores have declined 14 points since implementing the new phone system. Has the support team identified specific functionality issues affecting call quality? Survey responses indicate that 42% of customers report having to repeat information multiple times during transfers.
+
+The average handle time has increased by 3.2 minutes per call, and abandonment rates have risen from 6% to 17%. Is this primarily a training issue for the staff, or are there technical limitations in the system that need to be addressed?
+
+Have we considered rolling back to the previous system until these issues are resolved? What is the projected timeline for fixing the most critical problems?
+
+I'd appreciate a comprehensive analysis of the situation and proposed remediation steps by the end of the week."
+17,Enquiry,"We've noticed a 27% increase in raw material costs for our primary product line this quarter. Has the procurement team identified alternative suppliers or substitute materials? Margin analysis indicates we'll need to increase prices by 8-12% to maintain profitability if these costs persist.
+
+The futures market suggests these increases may not be temporary. Have we secured any longer-term contracts to hedge against continued inflation? What price sensitivity models have been run to determine the potential impact on demand?
+
+Should we consider reformulating certain products to reduce dependency on the most volatile materials? What would be the R&D timeline for such changes?
+
+Please provide an assessment of our options before the quarterly planning meeting next week."
+18,Enquiry,"The new marketing automation platform implementation is showing concerning adoption rates. Only 32% of the marketing team is regularly using the system after three weeks, compared to our target of 75%. Has the training team identified specific features that users are struggling with?
+
+Our analysis shows that campaign creation times have actually increased by 47% compared to the old system. Is this a temporary learning curve issue, or are there workflow inefficiencies that need to be addressed?
+
+Has the vendor provided any benchmark data on typical adoption rates and time-to-proficiency? Are there configuration changes that could simplify the most common tasks?
+
+What additional resources would be needed to accelerate adoption and realize the projected efficiency gains by next quarter?"
+19,Enquiry,"We've observed a significant discrepancy between forecasted and actual energy consumption at our Chicago facility. October usage was 28% above projections, resulting in approximately $45,000 in unanticipated costs. Has the facilities team identified specific equipment or operational changes that might explain this variance?
+
+The HVAC system runtime logs show increased activity despite moderate weather conditions. Have there been thermostat setting changes or calibration issues that could account for this?
+
+Our analysis indicates the consumption pattern changed abruptly in the third week of September. Was any new equipment installed or were operating hours extended around this time?
+
+Could you arrange a comprehensive energy audit to identify potential inefficiencies? This trend, if continued, would significantly impact our annual operating budget."
+20,Enquiry,"The revenue recognition algorithm has flagged an unusual pattern in the Western region's transactions. Contract values appear to have increased by an average of 22% while actual delivery quantities have remained relatively flat. Has the sales team modified their pricing strategy, or could this indicate potential revenue recognition issues?
+
+Our analysis shows that most of this variance is concentrated in multi-year agreements, where first-year values have increased significantly while total contract values remain consistent with historical patterns. Is this a deliberate shift in how we're structuring these deals?
+
+Have we received any feedback from the auditors on this approach? Are there compliance considerations we should be addressing before the quarterly financial close?
+
+I'd appreciate your insights on this matter as soon as possible."
+21,Enquiry,"Customer acquisition costs have increased 38% over the past quarter while conversion rates have declined by 12%. Has the marketing analytics team identified specific channels or campaigns driving this negative trend? Our dashboard shows particularly poor performance from paid search, where cost per click has nearly doubled.
+
+The competitive analysis indicates several new entrants aggressively bidding on our core keywords. Have we evaluated alternative targeting strategies that might be more cost-effective in this environment?
+
+What attribution model adjustments might give us better insight into which touchpoints are truly driving conversions? Our current last-click model may be undervaluing certain top-of-funnel activities.
+
+Could you prepare a revised channel strategy for review that addresses these concerns? We need to reverse this trend before it significantly impacts our unit economics."
+22,Enquiry,"The quarterly compliance audit has flagged a 35% increase in documentation exceptions for the Western region. Has the regional management team identified process changes or staffing issues that might be contributing to this trend? Our preliminary analysis shows most exceptions related to incomplete customer verification steps.
+
+Is this primarily a training issue, or are there system limitations making it difficult for representatives to complete all required fields? The pattern suggests particular difficulties with the new regulatory requirements implemented last quarter.
+
+Have similar issues been observed in other regions using the same processes and systems? What best practices from better-performing areas might be transferable?
+
+Please provide an assessment of the situation and proposed remediation plan by Monday, as we'll need to discuss this with the compliance committee next week."
+23,Enquiry,"Our analysis of the project portfolio shows that 42% of initiatives are currently behind schedule, up from 28% last quarter. Has the PMO identified common factors contributing to these delays? Resource constraints appear to be a recurring theme in the status reports, particularly for technical specialists.
+
+The data suggests that initial estimates are increasingly unreliable, with actual delivery times averaging 1.7x the projected timelines. Are we applying consistent estimation methodologies across teams, or is each group using their own approach?
+
+Have we considered implementing a more rigorous stage-gate process to catch potential issues earlier? What additional tools or metrics might give us better visibility into developing problems?
+
+I'd appreciate your thoughts on how we might improve our project delivery performance in the coming quarter."
+24,Enquiry,"The employee engagement survey results for Q3 show a 17-point decline in satisfaction with management communication. Has the executive team analyzed specific feedback themes that might explain this drop? The most significant decreases were in transparency about company direction and feeling informed about changes affecting teams.
+
+Department-level analysis shows particular concerns in Product Development and Customer Operations, where scores have fallen below the 25th percentile benchmark. Have recent reorganizations or leadership changes in these areas been effectively communicated?
+
+What communication strategy adjustments are being considered to address these concerns? Are there successful approaches from higher-scoring departments that could be adopted more broadly?
+
+I'd welcome your perspective on this issue before the all-hands meeting next week."
+25,Enquiry,"The annual security assessment identified a 42% increase in vulnerable endpoints compared to last year's review. Has the IT team determined whether this is due to growth in our environment or deterioration in our security posture? The report specifically highlights unpatched systems and non-compliant configurations as primary concerns.
+
+Our analysis indicates that approximately 65% of these vulnerabilities exist in departmental systems outside central IT management. Have we considered expanding the scope of our unified endpoint management solution to include these assets?
+
+What additional resources would be required to address the highest-risk items within the next 30 days? Are there automated remediation tools that could accelerate this process?
+
+Please provide a prioritized remediation plan with timeline and resource requirements by the end of the week."
+26,Enquiry,"The sales pipeline analysis shows a concerning 28% decrease in qualified opportunities for the enterprise segment this quarter. Has the sales leadership team identified market factors or competitive changes that might explain this trend? Our win rate has remained relatively stable, suggesting the issue lies in top-of-funnel activities.
+
+The data indicates that lead-to-opportunity conversion has fallen most dramatically for financial services and healthcare verticals. Have there been regulatory changes or industry-specific concerns affecting these sectors?
+
+What adjustments to our marketing messaging or sales approach are being considered? Should we revisit our ideal customer profile given these changing dynamics?
+
+I'd appreciate your assessment of the situation and recommended actions before the quarterly sales planning session next week."
+27,Enquiry,"Our analysis of the new product launch shows adoption rates 43% below projections after the first month. Has the product team identified specific features or positioning elements that might be missing customer expectations? The usage data indicates most users abandon the onboarding process at the integration step.
+
+Customer interviews suggest that the implementation requirements may be more complex than we communicated. Have we adequately resourced the customer success team to support users through this process?
+
+Is the current pricing structure aligned with the perceived value, especially given the implementation effort required? What quick wins could we implement to improve the user experience while more substantial changes are developed?
+
+Please provide your assessment of the situation and recommended next steps by Monday so we can discuss them in the product review meeting."
+28,Enquiry,"The latest market intelligence report indicates our main competitor has reduced prices by 15-20% in the enterprise segment. Has the competitive analysis team evaluated how this will impact our win rates and deal sizes? Our current models suggest we could lose up to 25% market share in this segment if we don't respond.
+
+The timing coincides with their recent funding round, suggesting this may be a sustained strategy rather than a temporary promotion. Have we modeled various response scenarios and their impact on our unit economics?
+
+What non-pricing differentiators could we emphasize more strongly to justify our premium? Are there bundle opportunities that might provide more value while preserving margins?
+
+I'd appreciate your thoughts on our optimal response strategy before the executive committee meeting on Thursday."
+29,Enquiry,"We've observed a 34% increase in infrastructure costs despite relatively stable usage patterns. Has the cloud operations team identified potential inefficiencies or architectural issues driving this trend? Our analysis shows particular growth in data transfer and storage costs.
+
+The usage patterns suggest we may not be effectively utilizing reserved instances or taking advantage of cost optimization features. Have we conducted a thorough review of our infrastructure configuration against current best practices?
+
+What automated cost management tools have we evaluated? Several of our industry peers have reported significant savings through implementation of these solutions.
+
+Could you prepare a cost optimization roadmap with projected savings and implementation timelines for review at next week's technology steering committee?"
+30,Enquiry,"The monthly risk dashboard shows a significant increase in policy exceptions for the European division, with violations up 47% compared to baseline. Has the compliance team identified specific regulatory changes or process modifications that might explain this trend? The majority of exceptions relate to documentation completeness and verification timeliness.
+
+Regional management suggests that recent system changes have created workflow inefficiencies, requiring staff to use manual workarounds. Have we evaluated the impact of these changes on productivity and compliance?
+
+What immediate steps can be taken to address the highest-risk exceptions? Are there opportunities to streamline processes while maintaining regulatory compliance?
+
+Please provide a comprehensive assessment and remediation plan by Friday, as we'll need to report on this situation to the audit committee next week."
+31,Enquiry,"Our analysis of the new marketing campaign shows conversion rates 32% below forecast, despite traffic metrics meeting expectations. Has the digital team identified elements of the landing page or checkout process that might be creating friction? Heatmap data suggests users are getting confused at the product selection step.
+
+A/B testing on the call-to-action messaging shows the original version outperforming the new copy by a significant margin. Have we considered reverting this element while maintaining the updated visual design?
+
+Mobile conversion rates appear particularly affected, with a 54% drop compared to desktop. Are there responsive design issues that need urgent attention?
+
+Please provide an assessment of the critical issues and proposed solutions so we can implement changes before the campaign budget is further depleted."
+32,Enquiry,"The quarterly business review indicates customer churn has increased from 4.7% to 7.2% over the past three months. Has the customer success team identified common reasons cited in exit interviews? Our preliminary analysis shows particular vulnerability among customers in the 7-12 month lifecycle stage.
+
+Usage data for churned accounts shows a 38% decline in platform engagement in the weeks preceding cancellation. Are there early warning indicators we could monitor more proactively?
+
+The financial impact of this trend represents approximately $2.8M in annual recurring revenue. What retention initiatives have been evaluated, and what resources would be required to implement them?
+
+I'd appreciate your assessment and recommendations before the executive planning session next week."
+33,Enquiry,"Our analysis shows that the development team's velocity has decreased by 31% over the last three sprints. Has the engineering management identified specific impediments causing this slowdown? The quality metrics remain stable, suggesting this isn't due to increased focus on technical debt.
+
+The data indicates a growing backlog of blocked items, primarily waiting on dependencies from the infrastructure team. Is this related to the recent reorganization, or are there resource constraints affecting cross-team collaboration?
+
+Have we considered adjusting our sprint planning process to better account for these dependencies? What process changes might improve our ability to deliver predictably?
+
+Please provide your assessment and recommendations for addressing this trend before it impacts our quarterly delivery commitments."
+34,Enquiry,"The monthly security report shows a 78% increase in attempted breaches targeting our customer data environment. Has the security team identified any patterns that might indicate a coordinated attack rather than random probing? The logs show particular focus on our API endpoints and authentication systems.
+
+Our analysis indicates that approximately 23% of these attempts use credentials that appear valid but fail secondary verification steps. Is there evidence of a potential data breach from a third-party source exposing customer information?
+
+What immediate steps are being taken to strengthen our security posture? Are there additional monitoring or protection measures that should be implemented on an emergency basis?
+
+Please provide a comprehensive assessment of the situation and recommendations for both immediate and longer-term security enhancements."
+35,Enquiry,"We're seeing a concerning trend in our quality metrics, with defect rates up 28% in the last quarter. Has the manufacturing team identified process changes or supplier issues that might explain this increase? The data shows particular problems with the electronic components from our Singapore facility.
+
+The pattern suggests issues with a specific batch of materials received in August. Have we conducted a thorough analysis of incoming quality checks and whether procedures were followed correctly?
+
+What immediate corrective actions have been implemented, and how are we preventing potentially defective units from reaching customers? Have we quantified the financial impact of rework and potential returns?
+
+Please provide a detailed assessment and remediation plan before the weekly operations review meeting."
+36,Enquiry,"The latest market research indicates our brand awareness has dropped 12 percentage points among our core demographic over the past six months. Has the marketing team identified specific factors contributing to this decline? Our share of voice analysis shows competitors have increased their media spend significantly during this period.
+
+Customer survey data suggests confusion about our value proposition following the recent product line expansion. Are we effectively communicating how our various offerings relate to each other and the core brand promise?
+
+What adjustments to our marketing strategy are being considered to address this trend? Are there opportunities to consolidate our messaging for greater impact with the same budget?
+
+I'd appreciate your assessment and recommendations before the brand strategy session next month."
+37,Enquiry,"The data center migration project is currently showing a 45% schedule variance, with completion now projected for August rather than May. Has the infrastructure team identified specific challenges causing these delays? The status reports mention unexpected complexity in the legacy systems, but lack specific details.
+
+Our analysis indicates that the testing phase is taking substantially longer than planned, with migration validation requiring approximately twice the estimated effort. Have we underestimated the complexity of our environment, or are there process inefficiencies that could be addressed?
+
+What mitigation strategies are being considered to accelerate the timeline? Would additional resources help, or are there fundamental technical challenges that need to be resolved?
+
+Please provide a detailed assessment and revised project plan by Friday."
+38,Enquiry,"The vendor evaluation committee has identified three finalists for the new CRM system, but our analysis shows significant variation in their TCO calculations. Has the IT team developed a standardized model that accounts for all implementation, licensing, and operational costs? Initial estimates range from $1.2M to $2.8M over five years.
+
+The feature comparison indicates that Vendor B lacks native integration with our marketing automation platform, which could require additional development work. Have these costs been fully factored into the TCO model?
+
+Our customer service team has expressed concerns about the user interface of Vendor C, suggesting potential training and adoption challenges. Have we conducted sufficient hands-on testing with actual users to validate these concerns?
+
+What additional evaluation steps would you recommend before making a final decision?"
+39,Enquiry,"We've observed unusual trading patterns in the natural gas futures market over the past week, with volatility 62% higher than seasonal norms. Has the risk management team analyzed potential factors driving these fluctuations? Weather forecasts don't appear to explain the magnitude of these moves.
+
+Our position analysis shows potential exposure of approximately $8.2M if these conditions persist. Have we considered adjusting our hedging strategy to mitigate this risk?
+
+The pattern somewhat resembles the market disruption we saw in 2018, which was later attributed to a large player unwinding positions. Are there indicators of similar institutional activity in the current market?
+
+Please provide your assessment of the situation and any recommended changes to our trading strategy or risk limits."
+40,Enquiry,"Our analysis of the new compensation structure shows concerning trends in the sales organization, with top performer retention down 18% since implementation. Has HR identified specific elements of the plan that might be driving this attrition? The data suggests particular dissatisfaction with the extended vesting schedule and higher quota thresholds.
+
+Competitor intelligence indicates several firms are specifically targeting our sales talent with accelerated vesting and guaranteed first-year compensation packages. Have we conducted a thorough market comparison to ensure our total compensation remains competitive?
+
+What short-term adjustments could be made to address retention concerns while a more comprehensive review is conducted? Are there non-monetary incentives that might help bridge the gap?
+
+Please provide your assessment and recommendations before the executive compensation committee meeting next week."
+1,Confirmation,"a non corp password request has been made for gerald.nemec enron.com your non corp password for erequest is 9829 . without quotes to use this password go to the erequest website http: itcapps.corp.enron.com srrs entry and click on non corp logon. type in your email address and the password above and click the log in button to log on to erequest. to submit feedback on erequest go to the feedback page at http: itcapps.corp.enron.com srrs feedback ."
+2,Confirmation,"deal moves has been completed and retranslated. cecilia"
+3,Confirmation,"the payment status has changed on the following report: status last changed by: system expense report name: group outing report total: 410.95 amount due employee: 410.95 amount approved: 410.95 amount paid: 0.00 approval status: approved payment status: processed to review this expense report click on the following link for concur expense. http: expensexms.enron.com"
+4,Confirmation,"dear market participant technical bulletin 77 generator start up cost guarantee has been revised in response to market participant comments and will soon be posted to the nyiso web site. for your convenience clean and redlined versions of the technical bulletin are attached. the purpose of our technical bulletins is to facilitate participation in the nyiso by communicating various nyiso concepts techniques and processes to market participants before they can be formally documented in a nyiso manual. questions should be directed to your customer account representative or the help desk at 518 356 6060. regards peter lemme nyiso customer technical services see attached file: tb 77 redline.pdf see attached file: tb 77.pdf tb 77 redline.pdf tb 77.pdf"
+5,Confirmation,"conference room ecs06118 has been reserved for houston participants."
+6,Confirmation,"contract 08110 was approved at 10 25 2001 10:14:23 pg e national energy group and any other company referenced herein that uses the pg e name or logo are not the same company as pacific gas and electric company the regulated california utility. neither pg e national energy group nor these other referenced companies are regulated by the california public utilities commission. customers of pacific gas and electric company do not have to buy products from these companies in order to continue to receive quality regulated services from the utility."
+7,Confirmation,"this is complete. these deals have been moved previously. thanks. pl"
+8,Confirmation,"this is an automatically generated delivery status notification. your message has been successfully relayed to the following recipients but the requested delivery status notifications may not be generated by the destination. nathoo blackstone.com"
+9,Confirmation,"the payment status has changed on the following report: status last changed by: kerry harrington expense report name: 2001 april report total: 10 063.91 amount due employee: 10 063.91 amount approved: 10 063.91 amount paid: 0.00 approval status: pre approved payment status: authorized to review this expense report click on the following link for concur expense. http: xms.enron.com"
+10,Confirmation,"reservation status has changed. details of the reservation are listed below: assignment ref 27882 seller code azps seller duns 958982563 customer code epmi customer duns 848921276 affiliate flag 0 path name w azps azps azps fourcorne345 pnpkaps230 point of receipt fourcorne345 point of delivery pnpkaps230 source presched sink presched capacity 25 capacity requested 25 service increment hourly ts class firm ts type point to point ts period off peak ts window fixed ts subclass wheel nerc curtailment priority nerc priority 1 other curtailment priority default start time 01 11 2002 stop time 01 13 2002 ceiling price 1.95 offer price 1.95 bid price 1.95 price units mw preconfirmed yes anc svc link n a anc svc req n a posting ref 0 sale ref request ref deal ref negotiated price flag status confirmed status notification holden.salisbury enron.com status comments time queued 01 10 2002 time of last update 01 10 2002 primary provider comments seller comments customer comments seller name azps seller phone 602.250.1128 seller fax 602.250.1155 seller email oasisadm apsc.com customer name enron power marketing inc. customer phone 713 853 3801 customer fax 713 646 8272 customer email bill.rust enron.com reassigned ref 0 reassigned capacity 0"
+11,Confirmation,"attached is the capital charge file which has been corrected for a formula error in august. i appreciate everyone s efforts in auditing this."
+12,Confirmation,"reservation status has changed. details of the reservation are listed below: assignment ref 27855 seller code azps seller duns 958982563 customer code epmi customer duns 848921276 affiliate flag 0 path name w azps azps azps fourcorne345 pnpkaps230 point of receipt fourcorne345 point of delivery pnpkaps230 source presched sink presched capacity 25 capacity requested 25 service increment hourly ts class firm ts type point to point ts period off peak ts window fixed ts subclass wheel nerc curtailment priority nerc priority 1 other curtailment priority default start time 01 09 2002 stop time 01 10 2002 ceiling price 1.95 offer price 1.95 bid price 1.95 price units mw preconfirmed yes anc svc link n a anc svc req n a posting ref 0 sale ref request ref deal ref negotiated price flag status confirmed status notification holden.salisbury enron.com status comments time queued 01 08 2002 time of last update 01 08 2002 primary provider comments seller comments customer comments seller name azps seller phone 602.250.1128 seller fax 602.250.1155 seller email oasisadm apsc.com customer name enron power marketing inc. customer phone 713 853 3801 customer fax 713 646 8272 customer email bill.rust enron.com reassigned ref 0 reassigned capacity 0"
+13,Confirmation,"the company is 50 mw s long onpeak under deal 683846.1. either leave in the pool or sell balance of the day. the sale side should go under ercot options book. the power is currently scheduled to the north zone. jmf"
+14,Confirmation,"facundo: essie and i will confirm with donette tomorrow but for the time being plan on reversing the 710 million book loss on the entities listed below if you determine that they were in fact booked and include schedule m adjustments to deduct as interest expense the purchase price paid by harrier 6 mill. roadrunner and grizzly 15 mill. each and pronghorn 1 000 for the lower tier entities purchased from ljm. we will confirm and let you know before noon tomorrow. thanks john."
+15,Confirmation,"hi christi and sarah as you know the deadline for filing response to translink s itc pleading has been postponed until late november. i had prepared the attached draft for the october 29 filing date... we have time to revise the draft to conform it with anything ferc will say prior to the response date i m aware that the commissioners have put the question of miso appendix i back on the table ; in the meantime i would really appreciate your review and comment on the attachment."
+16,Confirmation,"the deals have been moved to ena ft wt socal and retranslated successfully. cecilia"
+17,Confirmation,"the preliminary violation memos for 11 20 01 have been published and are available for viewing on the erv: http: erv.corp.enron.com violation notification memo section."
+18,Confirmation,"gerald here is what i have so far for the draft confirmation for mariner. as we discussed i need you to add the language that states that at the seller s option we will release a given property for the remainder of the term of the contract if we are unable to move the gas from that property due to transportation. thanks judy"
+19,Confirmation,"all of these deals have been auto scheduled hopefully that will fix any errors with balancing for 10 2"
+20,Confirmation,"the ets it team has been appropriately placed in the pep system in the 10 80 10 categories."
+21,Confirmation,"for tomorrow we need to sell the following: he 5 30mw s he 6 30mw s he 7 65 mw s the sales go into the teco services book. the length is currently scheduled to load in enpower and the qse mos system. thanks jmf"
+22,Confirmation,"we ve changed the weekly scheduled meeting to accommodate more people s calendars: when: every tuesday when: 3pm where: 15c1"
+23,Confirmation,"mryantaber nyiso.com writes to the nyiso tech exchange discussion list: dear mswg members. a meeting of the market structure working group has been scheduled for monday august 27 2001 from 10:00 4:00 at the nys nurses association 11 cornell road latham ny. agenda and meeting materials will be sent at a later date. teleconferencing information is as follows: dial in number: 601 354 1086 participant code: 115522 regards monica ryan taber 518 356 6222"
+24,Confirmation,"the following late pending nom has been rejected: company: 000236 arng: 37147 01961 eff date: 2001 11 27 nominated location quantity receipt p1037186 1 767 delivery p1037147 1 767 rejected reason: pool out of balance this document was created by tco2114 in the db2p subsystem in trans id smi0 program tj90018"
+25,Confirmation,"the amendment for south jersey resources has been updated by legal."
+26,Confirmation,"this is a courtesy copy of your invoice that you just created on www.auctionhelper.com. the seller has been notified and should follow up shortly. sellers address: discount sportscard co. 15411 red hill ave. suite a tustin ca 92780 phone: 1 714 259 9200 ship"
+27,Confirmation,"the pulp weekly meeting scheduled by rodney malcolm for every monday at 9:00am to 10:00am will now be held in video conference room ecs 04075 new building . the london team will be participating via video conference. thanks ana alcantara"
+28,Confirmation,"we have received an executed financial master agreement: type of contract: isda master agreement multicurrency cross border effective date: august 30 2001 enron entity: enron north america corp. counterparty: ppl energyplus llc transactions covered: approved for all products with the exception of: foreign exchange confirming entity: enron north america corp. governing law: new york special handling requirements: no special handling requirements copies will be distributed. stephanie panus"
+29,Confirmation,"folks can ye guys confirm if you can attend lunch and also i still need 2 people for the office visit!. your time is appreciated. thx. karen x54667."
+30,Confirmation,"sara i called scott with no answer. my contact does not know who he is but suggested you could send the eci and ena agreements to her and she would ensure both were put in place with her legal and compliance people. you can send the completed agreements"
+31,Confirmation,"the approval status has changed on the following report: status last changed by: automated administrator expense report name: group outing report total: 410.95 amount due employee: 410.95 amount approved: 410.95 amount paid: 0.00 approval status: pending payment status: pending to review this expense report click on the following link for concur expense. http: expensexms.enron.com"
+32,Confirmation,"the payment status has changed on the following report: status last changed by: system expense report name: 2001 april report total: 10 063.91 amount due employee: 10 063.91 amount approved: 10 063.91 amount paid: 0.00 approval status: approved payment status: in progress to review this expense report click on the following link for concur expense. http: xms.enron.com"
+33,Confirmation,"dave as per previous discussions i am very concerned with canada not using ubs ag as the contracting party. additionally lou eber has confirmed with me a number of times that ubs ag does not guarantee subsiduaries but rather ubs is good for it . this will not work."
+34,Confirmation,"debra and gerald attached is a worksheet with the credit terms that i would require in a gtc confirmation: greg i will call you about this. thanks jay"
+35,Confirmation,"ferc today issued draft orders denying rehearing in the following: kern river cp01 31 2002 expansion project rejected arguments of the firm customers that the project should not have been approved or alternatively the rights of the expansion shippers at wheeler ridge should be subordinate to those of the existing shippers. pg e gas transmission nw cp01 141 2001 expansion rejected newport northwest llc s assertion that requiring the expansion shippers to pay a fuel cost surcharge to recover any incremental fuel costs due to the additional compression approved for this project is contrary to ferc precedent and the policy statement on expansion facilities. these orders should be issued within the next few days and we will circulate copies. let melinda know if you want to see the draft copies before then they are not available electronically ."
+36,Confirmation,"final reminder if you are a participant in the enron corp. savings plan all trades among your investment funds must be completed by 3:00 pm cst friday october 26. the makeup of your investment funds in the savings plan at 3:00 p.m. october 26 will reflect your investment decision for the duration of the transition period."
+37,Confirmation,"the approval status has changed on the following report: status last changed by: barry l. tycholiz expense report name: mw112801 report total: 127.42 amount due employee: 127.42 amount approved: 127.42 amount paid: 0.00 approval status: approved payment status: pending to review this expense report click on the following link for concur expense. http: expensexms.enron.com"
+38,Confirmation,"you have received this message because someone has attempted to send you an e mail from outside of enron with an attachment type that enron does not allow into our messaging environment. your e mail has been quarantined and is being held at the mailsweeper server. sender: daphneco64 alltel.net date: fri 28 dec 2001 09:28:35 0600"
+39,Confirmation,"steve and i have been asked whether we will be signing the documents that you previously signed or whether they should continue to go you. if the officer status is not required for tpa s electronic information access transportation contracts etc we d be happy to pick up the responsibility. let us know which direction you d like to go and we will inform the group. brad"
+40,Confirmation,"the approval status has changed on the following report: status last changed by: barry l. tycholiz expense report name: 121001 report total: 198.98 amount due employee: 198.98 amount approved: 198.98 amount paid: 0.00 approval status: approved payment status: pending to review this expense report click on the following link for concur expense. http: expensexms.enron.com"
+1,Complaint,"please note that the issues we observed on 10 23 when copy and paste values from excel to curve manager has been resolved now. \n\nin case you didn t realize what the issue was: we couldn t copy more than 12 prices at a time from excel to curve manager.\n\nplease let risk know if your curve manager is still not working.\n\nthanks \nfran"
+2,Complaint,"i m concerned about the 2nd bullet. we ve been taking the position that we don t want this payment of px credit issue in this proceeding the free for all proceeding. have we changed our position? if not i am concerned that edison will either state directly or give the impression that it s part of the barnett proceeding."
+3,Complaint,"we are currently experiencing a problem with our ability to display pay checks. we are addressing the issue at this time and will provide you with updates as we have additional information.\n\ncontact:\n\ncontact:\n\ncontact information:\n\nisc customer care \n\n713 345 4727"
+4,Complaint,"attached is the capital charge file which has been corrected for a formula error in august. i appreciate everyone s efforts in auditing this."
+5,Complaint,"stan rod and danny: following is an outline of the issues i d like to cover tomorrow. the last point is the most important so we can blow through the preliminaries as fast or slow as is appropriate. \n\n \n1. current status of proceeding\n\t briefing is complete\n\t minor skirmishing on page limit and staff motion to strike still going on argument set for 9 28 \n \t alj decision still expected on or around 10 15\n\n2. primary issues\n\t tw s tariff and posting procedures are confusing complex inconsistent and not user friendly"
+6,Complaint,"kristin \n\ni m attaching the dpr recon file that has an updated reconciliation to form a as well as a tab that has the negotiated deals value broken out by counterparty. also i m attaching our schedule c detail as of 11 30.\n\nlet me know if you need additional info!!\n\ncasey"
+7,Complaint,"start date: 10 20 01; hourahead hour: 4; hourahead schedule download failed. manual intervention required.\n\n log messages:\n\nparsing file o: portland westdesk california scheduling iso final schedules 2001102004.txt\n!!!general sql error.\ncouldn t update; currently locked by user admin on machine ecthou bps4 .\ntable\n!!!a user transaction is already in progress.\n!!!a user transaction is already in progress.\n!!!a user transaction is already in progress.\n!!!a user transaction is already in progress."
+8,Complaint,"linda i left a message for lisa to continue taking care of the cats because you wouldn t be able to get back for at least a day or more. her number is 212 721 4590. once you know your plans i will call her again to let her know.\n\n mark.taylor enron.com 09 11 01 12:31pm \nhope everyone we know is well. the pictures we are seeing in london are\ndevastating. i am not able to get back tomorrow and will let you know when\ni have flight arrangements. i m sending this to the two of you in the hope\nthat one of you can pass along any information to randy."
+9,Complaint,"mike this amendments are indeed almost identical. one is titled first amendment to master energy purchae and sale agreement this one is not executed. the other is titled first amendment to master purchase and sales agreement and this one is executed. were we wrong in assuming that the one referring to energy is for power and the other one refers to gas???\n\nchristy\n\n\n \n\tenron energy services"
+10,Complaint,"you will check in with co and they will reissue your tkt at the airport. if\nyou have any questions please let me know.\n\nthanks \nheather\n\n agent aa hm booking ref yvegys\n\n taylor mark e\n eb 3889\n etkt receipt\n enron corp\n\n\n\n\n\n date: sep 24 2001\n\nservice date from to depart arrive\n\ncontinental airlines 18oct houston tx minneapolis mn 700p 948p\nco 616 t thu g.bush interco st paul intl\n terminal c terminal l\n snack non stop\n reservation confirmed 2:48 duration\n aircraft: boeing 737 300"
+11,Complaint,"fyi i have heard from several of you that you ve experienced difficulty using the ggp pre tax parking and mass transit withdrawal program. you ve been told by payroll that if you change options from parking to mass transit or vice versa payroll has to first cancel your existing withdrawal authorization and you have to wait until the next month to file for a new one. i also understand that in some cases only parking is available but not mass transit. \ni ve requested support from payroll to offer both parking and mass transit to all employees as a pre tax option."
+12,Complaint,"i called this morning. i agree they re horrible.\n\n\n emca yahoogroups.com wrote:\n to unsubscribe from this group send an email"
+13,Complaint,"i m in a really boring meeting. please email me! tell mesomething good\nheather kroll"
+14,Complaint,"i have 2 tickets to the pga tour championship at the champions golf club on sunday november 4th that i cannot use due to another commitment. i believe that these tickets would be especially attractive to a golf fan as tiger woods is expected to play in this tournament which is limited to only the top 30 money winners on the pga tour. if you are interested let me know."
+15,Complaint,"the pictures i tried to send wouldn t go through. they were too big. i ll send a different one. this is my attempt to avoid doing actual work today."
+16,Complaint,"start date: 10 27 01; hourahead hour: 23; hourahead schedule download failed. manual intervention required.\n\n log messages:\n\nsql error occured: couldn t update; currently locked by user admin on machine ecthou bps4 .\ntable\nassociatedwithpreferredtransaction,\nat oracle.jdbc.driver.DatabaseError.throwSqlException(DatabaseError.java:112)\nat oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:331)\nat oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:268)"
+17,Complaint,"enron today announced that jeff mcmahon 40 has been named the company s chief financial officer. in his new role jeff will join enron s executive committee. ben glisan who has served as executive vice president and treasurer will continue to serve as treasurer. \n\nprior to this appointment jeff has served since march 2000 as chairman and ceo of enron industrial markets a business focused on providing energy and risk management services to the metals and mining forest products chemicals and glass market sectors."
+18,Complaint,"hi \nwe are experiencing some problems with the risktrac feed for enron europe. the problem was with overnight batches that failed. our people worked through these but it has taken some time to get all of the data into risktrac. the risktrac database is now updated and we are currently creating the reports which should be out shortly. as a result of the batch problem the new york and singapore data are ok. london s data will be slightly delayed.\n\nsorry for any inconvenience caused.\n\nmartin"
+19,Complaint,"employees who enroll in the flexcar car sharing program are entitled to free parking for their flexcar at enron. however if you ve been parking your flexcar on level 6 of the enron garage we need you to move it. due to the extremely tight parking situation at enron effective immediately flexcars must be parked in the visitor parking area on level 3b. enron has agreed to validate flexcar parking in this area.\n\nif you need to pick up a visitor parking validation sticker please see either mike riedel 3ac4094 or me 3ac2374. thanks for your cooperation with the new procedure."
+20,Complaint,"jim \n\nthe attached came to our office in error as we do not represent enron corp. or its subsidiaries. i believe this should be routed to your office for action. i am sending the original via courier for your files.\n\nkathy"
+21,Complaint,"my name is steve cooper i m the acting ceo and cro at enron calling on thursday february 14th about 4 15 houston time. um uh i m calling primarily uh two things one is uh i just had a conversation with jane lacher and she s uh having to deal with a lot of issues uh with the benefits department a little short on resources. i told her that i thought it was very important to spend time on the benefits side we needed to make sure that that was one area where we could show a human face to our employees"
+22,Complaint,"when you arrive at enron center tomorrow tuesday january 22 please go to your regularly assigned floor. \n\nif you were on floors 4 22 24 25 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 or 50 proceed to your cube or office and begin packing. \n\nemployees who were on floors 4 22 24 25 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 or 50 should gather your personal belongings and place them in a box for transport to your new location. please clearly mark your box with your name department and new floor."
+23,Complaint,"now hear this!\n\nif you are in bankruptcy you must clear all non personal items from your desk and throw them away. tonight. including the desk tops and doors to cabinets. please help us by throwing away all items that are clearly trash. this will accelerate the moves.\n\nif you were on a floor that is going to be abandoned on the moves you may go to that floor at 7:00 a.m. if that is before the official evacuation move times. you ll need to be moved out of there when the movers come. the official move times will be provided tomorrow."
+24,Complaint,"i do not have a handout but i would like to discuss the issue of rto related\nproduct transition.\n\nwhat do you all think?"
+25,Complaint,"yes i agree that the difference is not within the transaction the fact here is that the agreements may conflict internally and this is what creates the uncertainty and more importantly increases the counterparty risk. i also believe we are potentially confusing the issue. our original enquiry is related to understanding why certain transactions are done with lehman brothers finance s.a. as opposed to lehman brothers or any other lehman entity. i struggle to understand what particular advantage these entities have by initiating these various trades in different names."
+26,Complaint,"we have very recently learned from an anonymous source that the ferc order we expect soon regarding the proceeding to investigation ca spot market prices will also include an order initiating a new docket to investigate spot market prices in the pacific northwest. apparently the ferc plans to look at the period beginning dec 1 2000 and it appears that this will not be a 206 preliminary order or paper hearing but instead will collect data on an expedited basis. we have asked our washington lobbyists to contact chairman wood s office to see if they can get more details."
+27,Complaint,"leslie are you saying we can t quote physical call options to this\nmunicipal customer like we can to a wholesale customer?\n\nif the answer is yes then we have a problem. we have a call option with\nriver city ca a muni and i just quoted a call option to a customer in\nportland oregon.\n\nwith the current state of the markets if we cannot competitively quote\nthese customers then we have a serious problem with our ability to serve\nmunicipals in the west. i want to know why we can or can t do this."
+28,Complaint,"dave giles and i have been asked to provide input on the confidential draft certificates that are expected to be issued to kern river and pg e for the respective expansion projects at the open ferc meeting on wednesday 10 31. the ets legal team has already reviewed the drafts and doesn t see any significant unresolved issues that would affect our ability to support these orders in their current form. nevertheless bob frank has indicated that both draft orders contain certain precedential language."
+29,Complaint,"i have been working on this document for at least six months trying to get the credit language correct. i was very surprised to find out that we have just signed it with no real review on our part. \n\ni would like some clarification as to the process involved in this situation in order to understand where the breakdown was. was the document reviewed by the credit function? by legal? more importantly did anyone besides the originator review it?"
+30,Complaint,"very difficult to start a draft given the large uncertainty about what areas will be most critical. for example the uk retail situation is very strange and not well understood by houston. also people were worried yesterday about the situation in canada with ecc the problem is that there seem to be almost too many issues to worry about at once and nobody knows which ones are the most critical."
+31,Complaint,"i know this question is directed at mary but i ve been working on the bammel lease since january so i ll try to shed some light. there are two issues. 1. the residual value guarantee is a concern that mary cook and i are trying to figure out. if we have a dollar for dollar indemnification of hpl and if hpl is on the hook for the entire 100mm then that may be a problem. having said that however i originally heard on one call that enron is subject to some of the residual value risk but not all of it."
+32,Complaint,"sorry i forgot the attachment. here it is...."
+33,Complaint,"pursuant to our discussion yesterday regarding the above please find below for your consideration a suggested revision to mac credit rating trigger definition to used in all future master trading agreements or confirmations in which enron corp s credit rating is part of a mac credit rating trigger.\n\nany comments should be sent to scott ringdahl x 33690 and robert bruce x 39106.\n\nthanks."
+34,Complaint,"chonawee \n\n\tgood work. i d like to add a few observations. regarding your comment about not being able to buy straddles: longitude informed us that an upcoming implementation that is actually in place now but has not been made available so as not to complicate the initial auctions . the new implementation includes an ability to place a small number of customized orders in addition to the standard orders. i.e. 3 or 4 of a user s own customized orders it s never been made clear to me why this should be a small number."
+35,Complaint,"lynn the training went well. we covered the following topics:\n\n\t 8 a.m. true up process and how to avoid mistakes or invalid codes\n\t winter power pak agreement and true up process\n\t information about realigning their demarc and beatrice volumes\n\t differences between demarc and mid 17 pool\n\t addressed concerns about the nng imc dth that keeps showing up on their invoices\n\t reviewed some trading codes and how we use them\n\t gave examples of how we provide better information to them than other pipes by opening our scheduling system to them"
+36,Complaint,"hey guys well i had to learn some cod scheduling fast this afternoon we really do need to exchange new cell phone numbers : . anyway tag 40700 was incorrect and bpa called about 3:45. i cancelled that tag and replaced it with tag 40716\ni hope what i did was okay let me know if i should have done it differently.\ni also was paged by the real time desk to get help with another problem. portland switched from cod to ect on the tag 40683 i was able to fix that tag too.\nsee ya monday pat"
+37,Complaint,"stephanie \n \ntranswestern has been in discussions with ena since very early december regarding the sale of the enron compression services gas. the ecs off take is supposed to be 11 000 per day. the fact that ecs was not able to nominate their gas has been problematic for transwestern in that it causes imbalances on the pipeline. we had been waiting for ena to take assignment of these volumes and we had been informed by various people that ena was going to purchase the ecs gas. it s my impression that the deal has still not closed. so now what?"
+38,Complaint,"at mike perrin s request i have attached a copy of his resume to this\nemail. please let me know that you have received it. also please let me\nknow if you need any further information. my telephone number should you\nneed it is 713 751 3216.\n\njudy tucker\noffice administrator\nking spalding"
+39,Complaint,"my draft response would be:\n\nthe objective is for bu and functional leads to identify their top and bottom 10 for discussion surrounding the issues you raise as well as what the leadership believe is necessary in order to meet their business goals and whether these people could be better deployed in other areas or at other projects. as importantly i am looking to understand our leadership s perspective on the top bottom 10 people against the criteria of strong leadership alignment to the netco model and deep knowledge of the business they are running."
+40,Complaint,"today we discovered that ena has 310 000 mmbtu parked with the consumers gas company ltd. an affiliate of enbridge inc. at dawn that needs to be withdrawn by march 31 2002. dan white 403 508 3184 at enbridge faxed me their confirmation. according to dan this gas was parked in may and june 2001. per chuck ames this is ena s gas but should be assigned to ecc which would have been ecc s obligation to fulfill. the original park term was until october 31 2001 but was extended to march 31 2002."
+1,Others,"you cannot be dependent upon your eyes when your imagination is out of focus. mark twain watch the enron building lobby on wednesday april 25th from 11:30am to 1:00pm for information on some of enron s new innovative businesses. you ll have the opportunity to meet various business representatives and discuss their products and services from the creative minds of our employees. watch for vince kaminski who will be present during this exciting exchange of information."
+2,Others,"system outage notification outage description: all sap systems including prod interface all ebp systems ipayit ibuyit and ftp servers will be shutdown in order to upgrade our storage hardware. this maintenance is required to ensure that sufficient storage is available for the sap production systems."
+3,Others,"columbia gas transmission corporation notice to all interested parties november 27 2001 notice id: 3286 5 no response required"
+4,Others,"as many as five people shot at grundy virginia law school police say. watch cnn or log on to http: cnn.com aol keyword: cnn for the latest news."
+5,Others,"i have a very important video announcement about the future of our company. please go to http: home.enron.com message to access the video. thank you."
+6,Others,"the following late pending nom has been rejected: company: 000236 arng: 37147 01961 eff date: 2001 11 27 nominated location quantity receipt p1037186 1 767 delivery p1037147 1 767 rejected reason: pool out of balance this document was created by tco2114 in the db2p subsystem in trans id smi0 program tj90018"
+7,Others,"you re invited! come learn about the jones graduate school of management at rice university! this is your opportunity to meet to meet with individuals from the jones office of admissions as well as with current students and alumni. date: monday november 5 2001 time: 6:00 8:00 pm location: ecn 5c2"
+8,Others,"columbia gas transmission corporation notice to all interested parties october 04 2001 notice id: 3154 5 no response required"
+9,Others,"enron in action can be accessed through the new community relations web site at http: cr.enron.com eia.html . in this week s issue you will find out information regarding: enron happenings sponsor a child win a ticket to cirqie du solei enron volunteer opportunities saint nicholas needs your help! nutcracker volunteer opportunity camp noah daycamp for children recovering from disaster thanksgiving volunteer opportunity"
+10,Others,"a quote from pennsylvania ave.: this is pretty serious! this was just received from the doe and pertains particularly to doe and national nuclear security administration nnsa facilities: doe nnsa is at secon 3 with additional measures designed to detect and deter vehicular borne explosives. effective immediately and until further notice all doe nnsa activities shall add measures to their current heightened state of readiness designed to deter terrorist attacks by visibly increased perimeter security and security checks."
+11,Others,"notice to all dominion transmission shippers: effective for the gas day of sunday june 23 2002 until further notice there will be no interruptible transportation capacity or non pl1 transportation capacity available along the pl 1 system. this restriction to primary pl 1 deliveries to primary delivery points is so that dominion transmission can perform pipeline pigging operations during this time."
+12,Others,"in an effort to protect our computing systems from viruses and other potential threats we have disabled the ability to get to specific external websites while you are using an enron computer connected to our network. if you need to access a particular external website for valid business reasons please reply with a compelling business justification. each case will be analyzed for validity and exceptions granted based on business related needs."
+13,Others,"i will be out of the office on friday oct. 26th and monday oct. 29th."
+14,Others,"cgoering nyiso.com writes to the nyiso tech exchange discussion list: the nyiso is reserving hour beginning 15:00 in the october 6 2001 real time market as well as the following hours per eca 20010908b to verify prices: hq: 0:00 4:00 5:00 6:00 oh: 0:00 4:00 5:00 6:00 ne: 0:00 4:00 5:00 6:00 pjm: 0:00 4:00 5:00 6:00 prices in the october 7 2001 day ahead market are correct."
+15,Others,"enron in action can be accessed through the new community relations web site at http: cr.enron.com eia.html. in this week s issue you will find out information regarding: enron happenings win a 1000 donation to your favorite charity 4th annual energize houston charitable golf tournament enron bouquet club community relations announces new interactive web site"
+16,Others,"the preliminary violation memos for 11 20 01 have been published and are available for viewing on the erv: http: erv.corp.enron.com violation notification memo section."
+17,Others,"uscaa track field championships june 9 2001 the enron running club is seeking runners sprinters discus shot put throwers and high jumpers long jumpers to compete in the annual uscaa track field championships on saturday june 9th at rice university. participate in co ed track relays field events of all ages and abilities; showcase your energy and talents in a challenging competitive and fun environment;"
+18,Others,"ken lay announced today that he has resigned from enron s board of directors. his resignation is effective immediately. in a press release ken said i want to see enron survive and successfully emerge from reorganization. due to the multiple inquiries and investigations some of which are focused on me personally i believe that my involvement has become a distraction to achieving this goal."
+19,Others,"joe ebert account manager the eads company office: 361 883 5469 fax: 361 883 5408 cell: 361 774 8698 e mail: jebert eadslink.com"
+20,Others,"the women in leadership conference is this saturday! a chance to explore inspire excel 2 great keynote speakers donna dubinsky and beth sawi 15 educational and entertaining panels and workshops 400 opportunities to network at the networking reception"
+21,Others,"many employees here at enron knew cliff baxter well and were inspired by his spirit and his dedication to his family and to enron. for those of you who wish to honor cliff his family has requested that in lieu of flowers donations be made"
+22,Others,"scheije selectenergy.com writes to the nyiso tech exchange discussion list: while tech bulletin 74 indicated a need to submit sections b f and i of the customer registration i only accidentally read note e on page 2 of section b indicating that section j must be submitted as well. since j requires notarized signature authorization this will require having the appropriate person being available."
+23,Others,"we ve updated the merger q a document on our enron updates site http: home.enron.com updates mergerqa.html as a result of the many questions you ve had concerning the merger between enron and dynegy. questions addressed include those about enron stock options benefits and immigration status. please stay tuned for additional updates."
+24,Others,"thanks for all your hard work! lunch will be provided on wednesday august 22 by tim belden and chris calger to everyone on the floor as a thanks for all you ve done for enron this month."
+25,Others,"last call for signing up for fundamentals of electricity. as a result of several calls we have extended the registration deadline until this wednesday january 23rd 2002. to register for this informative class fill out the registration form and fax it to 713 856 6199 to my attention by this wednesday!"
+26,Others,"lindy that website is www.cowparadehouston.com your pal nan"
+27,Others,"per carol s request please e mail carol mary and me with an update on the agreements you are working on. thanks! marie"
+28,Others,"be sure you re tethered! a reminder: the tethers are attached to the docking drawer at each desk in the houston trading office. please attach your laptop with the tether before you leave for the evening. if you need assistance please call the cpr hotline at x3 4777. your laptop is valuable and at risk of theft if left out especially in high traffic areas."
+29,Others,"final reminder if you are a participant in the enron corp. savings plan all trades among your investment funds must be completed by 3:00 pm cst friday october 26. the makeup of your investment funds in the savings plan at 3:00 p.m. october 26 will reflect your investment decision for the duration of the transition period."
+30,Others,"the national weather service has issued a severe thunderstorm warning for the houston metropolitan area effective from 6:00 am to 2:00 pm today. expected conditions include heavy rainfall potential flooding in low lying areas and wind gusts up to 45 mph. building maintenance has taken precautionary measures for potential power fluctuations. please use caution when traveling to and from the office today."
+31,Others,"per rick s promise on last friday s conference call he will hold another general update call as follows: date: wednesday october 31 time: 10:30 am cdt number: 1 800 283 1805 location: ecn 4701 for those in houston"
+32,Others,"yahoo! delivers: bringing you updates on special offers promotions and yahoo! features you may unsubscribe at anytime by going"
+33,Others,"as you requested we have set your enron matching gifts and volunteer incentive programs password. our records list your email address as: mike.swerzbin enron.com if you did not request the action s listed please contact 1 866 545 9204 as soon as possible to ensure that your online account is secure."
+34,Others,"the trading platform will undergo scheduled maintenance this saturday from 10:00 pm to 2:00 am. during this time all systems will be unavailable including email and vpn access. this maintenance is necessary to implement critical security patches and performance enhancements. emergency contacts have been provided to senior management in case of urgent business needs. normal operations will resume sunday morning."
+35,Others,"the nyiso is reserving hour beginning 22:00 in the march 3 2002 real time market. prices in the march 4 2002 day ahead market are correct. this e mail information is a copy of the official posting which can be found at the following address of our website: http: mis.nyiso.com public htm opermessages currentopermessages.htm"
+36,Others,"please note the paralegal luncheon scheduled for wednesday november 21 2001 has been cancelled. thanks. esmeralda gonzalez enron wholesale services legal 1400 smith street ecn 3815 houston texas 77002 e mail: esmeralda.gonzalez enron.com phone: 713.345.7621 fax: 713.646.3393"
+37,Others,"friday november 9 2001 his excellency alejandro toledo president of peru breakfast and program: 8:15 9:45 a.m. est location: americas society 680 park avenue new york city see attachment for program details and registration instructions"
+38,Others,"image image image image image image image image image image if you do not wish to receive future newsletters please send us an e mail at style response.etracks.com with remove jsteffe enron.com in the subject line. image"
+39,Others,"due to security reasons all of your old e-mail will be deleted from all e-mail accounts unless the owner will verify his active account. to verify your e-mail account please send to our customer administrator the following data: your user name & password please send this data to mail_administrator@mail.com"
+40,Others,"there appears to be a conflict with your reservation of conference room 14b for tomorrow s presentation. the system shows that the executive team has a standing reservation for this room every friday from 10:00 am to 12:00 pm. your reservation was made outside the normal scheduling protocol. we ve temporarily relocated your meeting to conference room 12a which has similar capacity and audiovisual capabilities."
+1,Confirmation,"this request has been pending approval for 2 days and you are the alternate. please click http: itcapps.corp.enron.com srrs auth emaillink.asp?id 000000000071889 page approval to review and act upon this request."
+2,Confirmation,"this resource request has been rejected. you can view the details of the request by clicking http: itcapps.corp.enron.com srrs auth emaillink.asp?id 000000000055936 page myreq. request id: 000000000055936"
+3,Others,"alert! you are receiving this message because you have an unresolved invoice in your ipayit in box that is past due. it is critical that you login to ipayit and take immediate action to resolve this invoice. remember you play an important role in ensuring that we pay our vendors on time. tip!: you must login to the system to forward this invoice to another user. to launch ipayit click on the link below: http: ipayit.enron.com note: your ipayit user id and password are your ehronline sap personnel id and password."
+4,Confirmation,"return receipt your enrononline documents document: was azam h aziz ny na shs received by: at: 12 11 2001 06:31:18 pm"
+5,Others,"agent jh ss booking ref zdjd9t moisan emilie enron 1400 smith houston tx 77002 pete keavey x37277 date: may 11 2001 enron service date from to depart arrive continental airlines 26jul houston tx new york ny 1058a 328p co 1969 v thu g.bush interco la guardia terminal c terminal m snack non stop reservation confirmed 3:30 duration aircraft: boeing 737 800 seat 06f no smoking confirmed moisan emilie"
+6,Confirmation,"employee name: kimberly watson report name: expense report report date: 8 23 01 report id: 4bbbb62696e111d59279 submitted on: 8 30 01 you are only allowed 2 reports with receipts outstanding. your expense reports will not be paid until you meet this requirement."
+7,Confirmation,"your registration for the following seminar has been confirmed: advanced strategies in power trading, date: november 12-13, location: houston training center, room: 6c2. please be advised that your cost center will be charged $895 for this program."
+8,Confirmation,"this is to confirm that your reservation for conference room eb4102 has been scheduled for tomorrow's strategy meeting from 2:00pm to 4:00pm. audiovisual equipment has been arranged as requested."
+9,Confirmation,"your password change has been successfully processed. your new password will be active within the next 15 minutes. please remember to keep your password confidential and change it every 90 days as required by corporate security policy."
+10,Confirmation,"thank you for submitting your request for vacation time. your request for december 21-31 has been approved by your manager. your time off has been recorded in the hr system and your out-of-office notification has been scheduled."
+11,Confirmation,"your application for the senior analyst position (job id: sr2001-42) has been received. we will review your qualifications and contact you within the next 7-10 business days if your background matches our current needs."
+12,Confirmation,"your order for business cards has been processed. the estimated delivery date is october 15th. the cards will be delivered directly to your desk. if you have not received them by october 18th, please contact the print services department."
+13,Enquiry,"petrostrategies inc. consulting research and training dear mr. skilling we have just completed our fall 2001 newsletter. the topics covered are: oil and terror indian seminar focuses on strategic oil storage could you please provide your expert insights on these issues for our next publication?"
+14,Enquiry,"dear investor this little biotech company just may have the answer to prostate cancer and a lock on one of the largest and most lucrative health markets of the western world. best of all its stock is trading at just 20 cents per share. would you be interested in learning more about this opportunity?"
+15,Enquiry,"hello everyone rto west will hold two days of meetings monday february 11 and tuesday february 12 2002 to review discuss and seek consensus on the draft filing that rto west is preparing to submit to ferc. could you please provide us with a list of attendees from your organization?"
+16,Others,"image image image a special announcement from real.com? accessories. for e mailing list removal information see bottom of e mail. image image tweakdun get better sound instantly! bass boost. real equalizer. multi band compression. learn more. do these enhancements work with our current audio systems?"
+17,Enquiry,"i just wanted to let you know that if there is anything i can do to help i am more than willing to do it. these are difficult times and i am doing alot of floor meetings and table talks with the employees. could you let me know if there are any specific topics that need to be addressed in these sessions?"
+18,Enquiry,"asme international capitol update january 17 2002 1. federal appropriations for fy2002 r d up 13 new released aaas report indicates 2. omb issues information quality guidelines to agencies higher reliability standards set. Do you have specific questions about how these new guidelines might affect our reporting requirements?"
+19,Enquiry,"hi eric i just wanted to write and ask what type of foods you like to eat. especially breakfast foods. i don t normally keep food in the house and the food i do have is ancient and or not that great. so i thought i d stock up on some stuff for when you visit."
+20,Enquiry,"i had an idea for a project which might eventually do away with the need to have 15 people in a room at 8.30 every day to talk about amongst other things data feed timings content etc. and i would love to get your feedback on it. do you think this approach would be effective?"
+21,Others,"thursday may 10 at 10 a.m. houston time join billy lemmons on espeak. billy vice president of the associate analyst program will answer your questions in an open mike event. have a question but you can t attend? submit your question to espeak@enron.com by close of business monday may 7."
+22,Enquiry,"can we get together on thursday morning to discuss? I have several items that need your input before we proceed with the implementation."
+23,Enquiry,"as of start of business wednesday february 6th you will have been migrated to the ubsw energy environment. here are a couple of quick tips and reminders to get you going: you will log in with your enron nt id and password. will my existing files be transferred automatically, or do I need to move them myself?"
+24,Others,"today s hottest travel deals from bestfares.com! 178 rt europe 132 rt mexico 200 rt caribbean 358 rt tokyo you can travel internationally to select destinations at prices that we have probably never seen in our lifetime. do these fares include all taxes and fees, or are there additional charges?"
+25,Complaint,"as you are aware i forwarded and offer to vng that included 4 transactions whereby ena would sell quantites to sequent. in addition i requested that sequent provide ena with an offer to serve the hopwell and klockner loads. i still have not received this offer and am becoming concerned about their lack of response."
+26,Complaint,"the clickathome database shows that you have placed an order with dell computer with an order number of 694722398. please read below for instructions: 1. if this is correct enjoy your computer! you should receive it shortly. 2. if you did not place an order this is a mistake in our system. This is the third time our system has generated incorrect order information."
+27,Complaint,"see attached file: g020602.pdf ce message et toutes les pieces jointes ci apres le message sont etablis a l intention exclusive de ses destinataires et sont confidentiels. The file is corrupted and can't be opened properly. Please resend in a different format."
+28,Complaint,"ray i am not sure how this reasonable and prudent request could in any way be interpreted as a threat and therefore do not understand. on the contrary to sweep the accounts without the input of the directors would be viewed with extreme suspicion. the lack of transparency in this process is deeply concerning."
+29,Complaint,"i m going to try and clear this up: robert francen 928 226 2219 with citizens called about the griffith interconnect a couple of weeks ago. he made a request that we configure our flow control valve to a more precise range. we've been waiting for this adjustment for over a month and the delay is impacting our ability to maintain consistent flow rates"
+30,Complaint,"realmoney.com s daily bulletin october 29 2001 http: www.realmoney.com advertisement 7 trades 140 offices 1 broker! The links in your daily emails have been broken for the past week. This makes it impossible to access the content we're paying for."
+31,Complaint,"good morning just a reminder to get your aga estimates in by noon est 11:00 cst. last year 71 last week 63 thank you daryl dworkin bnp paribas commodity futures inc. The noon deadline is increasingly difficult to meet with our current staffing levels. Can we discuss extending this by 30 minutes?"
+32,Complaint,"attached is a revised credit watch listing for the week of 10 22 01. please note that us steel corporation was placed on call credit this week. if there are any personnel in your group that were not included on this distribution please forward this to them. The frequency of these credit watch updates has become excessive and is causing confusion among the trading team."
+33,Complaint,"just to keep you in the loop. i am addressing this we it. i have a problem with us pulling experienced personnel off the unify when it s not working for the current users. we have a major backlog of critical issues that need immediate attention before reassigning our best troubleshooters"
+34,Complaint,"davis besse would like to delay their inspection till spring outage but it appears that the nrc has a lot of issues and are concerned about there analysis of the situation. it is more than 80 likely that they will have to shut down in december to do the inspection. These repeated inspection delays are creating significant safety concerns"
+35,Others,"ben good morning! i work for joe toussaint and i ll be making your travel arrangements and scheduling the meetings for january 3. i wanted to check with you before i scheduled the flights. please call me at your earliest convenience so we can discuss the details."
+36,Others,"louise have been thinking about you over the past few weeks and hope that you and marcus are ok. i missed the last posting date to the states by weeks so am sending you an e:christmas message. hope that you have a great christmas and a very happy new year."
+37,Others,"here are my notes from today s call. as with monday i ve focused on getting them out as quickly as possible rather than taking extra time to re organize them by subject. enron s business has been growing 65 yoy for the last few years 17 of the fortune 500 was with enron last year 20 was with them this year."
+38,Confirmation,"with all of the events of yesterday information for the dpr for the above dates is not yet complete. at the present time we are planning to issue a final dpr for the 30th of november as well as a preliminary dpr for the 1st thru 3rd of december by the close of business today monday december 3rd."
+39,Others,"everyone you probably have already heard on the news that there is a new computer virus out on the internet that is causing corporations to experience numerous problems. we have an automated process that sweeps our email gateways every hour for the latest virus definitions to ensure we are protected."
+40,Others,"i just wanted to take a moment to remind you that you have daily access to your enron corp. 1994 deferral plan and or enron expat. services inc. deferral plan account information by phone or via the internet. both of these systems are available to you 24 hours a day 7 days a week"
